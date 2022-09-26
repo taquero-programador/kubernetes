@@ -1,4 +1,2 @@
 ## Kubernetes - K8s.
-Instalación de kubernetes.
-
-Pasos
+Instalación de kubernetes y minukube.
